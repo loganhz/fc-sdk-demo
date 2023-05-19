@@ -1,0 +1,11 @@
+{
+  "name": "fc-api-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@alicloud/tea-typescript": "^1.7.1",
+    "@alicloud/fc-open20210406": "^2.0.8",
+    "@alicloud/openapi-client": "^0.4.4",
+    "@alicloud/tea-console": "^1.0.0",
+    "@alicloud/tea-util": "^1.4.5"
+  }
+}
